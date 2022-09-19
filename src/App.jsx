@@ -7,6 +7,7 @@ import { Home } from "./Pages/Home";
 import { Articles } from "./Pages/Articles";
 import { AjouterArticle } from "./Pages/AjouterArticle";
 import { Apropos } from "./Pages/Apropos";
+import { Planetes } from "./Pages/planetes";
 
 function App() {
   return (
