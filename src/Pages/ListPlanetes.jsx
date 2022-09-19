@@ -1,3 +1,8 @@
+// Importation du module Express
+const express = require("express");
+// Instancie le serveur
+const app = express();
+
 app.get("/", (req, res) => {
     res.send("Bienvenue dans l'api rest des planetes");
 })

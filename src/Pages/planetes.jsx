@@ -1,5 +1,5 @@
 import React from "react";
-import ListePlanetes from "./ListPlanetes";
+import ListPlanetes from "./ListPlanetes";
 
 export const Planetes = () => {
   return (
